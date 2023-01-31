@@ -1,0 +1,21 @@
+section {
+    min-height: 700px;
+}
+
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.jumbotron {
+    background-image: url(../img/bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+    margin-bottom: 100px;
+    background-position: 0 -100px;
+    color: #eee;
+}
